@@ -1,0 +1,11 @@
+{
+  "name": "Charts",
+  "id": "1007407827405041326",
+  "api": "1.0.0",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}

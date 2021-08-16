@@ -1,0 +1,16 @@
+{
+ "compilerOptions": {
+  "outDir": "./dist/",
+  "noImplicitAny": true,
+  "module": "es6",
+  "target": "es5",
+  "allowJs": true,
+  "strict": true,
+  "jsx": "preserve",
+  "moduleResolution": "node",
+  "typeRoots": [
+   "./node_modules/@types",
+   "./node_modules/@figma"
+  ]
+ }
+}
